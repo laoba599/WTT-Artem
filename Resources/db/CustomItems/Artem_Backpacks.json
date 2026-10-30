@@ -109,6 +109,16 @@
         "name": "6Sh118 raid backpack (Black)",
         "shortName": "6Sh118 (B)",
         "description": "The 6Sh118 raid backpack is part of the 2nd generation 'Ratnik' gear kit for combat. The 6Sh118 tactical army backpack is a modernization of the 6B38 Permyachka model raid backpack. The raid 6Sh118 backpack is designed to carry fire support equipment, weapons, ammunition, elements of mountain equipment, as well as the personal belongings of individual soldiers. The backpack can be used during combat operations, long hikes, and raid events."
+      },
+      "ch": {
+        "description": "6Sh118 突袭背包是第二代“勇士”（Ratnik）作战装备的一部分。6Sh118 战术军用背包是 6B38 Permyachka 型号突袭背包的现代化改进型。6Sh118 突袭背包用于携带火力支援装备、武器、弹药、山地装备部件以及士兵个人物品，可用于作战行动、长途行军和突袭任务。",
+        "name": "6Sh118 突袭背包（黑色）",
+        "shortName": "6Sh118（黑）"
+      },
+      "cn": {
+        "description": "6Sh118 突袭背包是第二代“勇士”（Ratnik）作战装备的一部分。6Sh118 战术军用背包是 6B38 Permyachka 型号突袭背包的现代化改进型。6Sh118 突袭背包用于携带火力支援装备、武器、弹药、山地装备部件以及士兵个人物品，可用于作战行动、长途行军和突袭任务。",
+        "name": "6Sh118 突袭背包（黑色）",
+        "shortName": "6Sh118（黑）"
       }
     },
     "addtoInventorySlots": [],
@@ -244,6 +254,16 @@
         "name": "6Sh118 raid backpack (Alpine)",
         "shortName": "6Sh118 (ALP)",
         "description": "The 6Sh118 raid backpack is part of the 2nd generation 'Ratnik' gear kit for combat. The 6Sh118 tactical army backpack is a modernization of the 6B38 Permyachka model raid backpack. The raid 6Sh118 backpack is designed to carry fire support equipment, weapons, ammunition, elements of mountain equipment, as well as the personal belongings of individual soldiers. The backpack can be used during combat operations, long hikes, and raid events."
+      },
+      "ch": {
+        "description": "6Sh118 突袭背包是第二代“勇士”（Ratnik）作战装备的一部分。6Sh118 战术军用背包是 6B38 Permyachka 型号突袭背包的现代化改进型。6Sh118 突袭背包用于携带火力支援装备、武器、弹药、山地装备部件以及士兵个人物品，可用于作战行动、长途行军和突袭任务。",
+        "name": "6Sh118 突袭背包（高山）",
+        "shortName": "6Sh118（高山）"
+      },
+      "cn": {
+        "description": "6Sh118 突袭背包是第二代“勇士”（Ratnik）作战装备的一部分。6Sh118 战术军用背包是 6B38 Permyachka 型号突袭背包的现代化改进型。6Sh118 突袭背包用于携带火力支援装备、武器、弹药、山地装备部件以及士兵个人物品，可用于作战行动、长途行军和突袭任务。",
+        "name": "6Sh118 突袭背包（高山）",
+        "shortName": "6Sh118（高山）"
       }
     },
     "addtoInventorySlots": [],

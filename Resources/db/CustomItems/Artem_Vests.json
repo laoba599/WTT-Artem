@@ -501,6 +501,16 @@
         "name": "Crye Precision CPC plate carrier (Multicam)",
         "shortName": "CPC (MC)",
         "description": "The CAGE PLATE CARRIER (CPC) offers unrivaled comfort and load support in a low profile plate carrier configuration. The system supports a range of different pouches. In this case, the configuration is made by the leader of the Goons squad - Knight - for conducting assault operations with increased mobility."
+      },
+      "ch": {
+        "description": "CAGE 防弹衣（CPC）采用低轮廓防弹衣构型，舒适性和负重支撑无与伦比，可搭配多种不同的附包。这套配置由 Goons 小队队长 Knight 制定，用于高机动突袭作战。",
+        "name": "Crye Precision CPC 防弹衣（多地形迷彩）",
+        "shortName": "CPC（多地形）"
+      },
+      "cn": {
+        "description": "CAGE 防弹衣（CPC）采用低轮廓防弹衣构型，舒适性和负重支撑无与伦比，可搭配多种不同的附包。这套配置由 Goons 小队队长 Knight 制定，用于高机动突袭作战。",
+        "name": "Crye Precision CPC 防弹衣（多地形迷彩）",
+        "shortName": "CPC（多地形）"
       }
     },
     "addtoInventorySlots": [],
@@ -1091,6 +1101,16 @@
         "name": "Crye Precision CPC plate carrier (Alpine)",
         "shortName": "CPC (ALP)",
         "description": "The CAGE PLATE CARRIER (CPC) offers unrivaled comfort and load support in a low profile plate carrier configuration. The system supports a range of different pouches. In this case, the configuration is made by the leader of the Goons squad - Knight - for conducting assault operations with increased mobility."
+      },
+      "ch": {
+        "description": "CAGE 防弹衣（CPC）采用低轮廓防弹衣构型，舒适性和负重支撑无与伦比，可搭配多种不同的附包。这套配置由 Goons 小队队长 Knight 制定，用于高机动突袭作战。",
+        "name": "Crye Precision CPC 防弹衣（高山）",
+        "shortName": "CPC（高山）"
+      },
+      "cn": {
+        "description": "CAGE 防弹衣（CPC）采用低轮廓防弹衣构型，舒适性和负重支撑无与伦比，可搭配多种不同的附包。这套配置由 Goons 小队队长 Knight 制定，用于高机动突袭作战。",
+        "name": "Crye Precision CPC 防弹衣（高山）",
+        "shortName": "CPC（高山）"
       }
     },
     "addtoInventorySlots": [],
@@ -1681,6 +1701,16 @@
         "name": "Crye Precision CPC plate carrier (Multicam-Black)",
         "shortName": "CPC (MC-B)",
         "description": "The CAGE PLATE CARRIER (CPC) offers unrivaled comfort and load support in a low profile plate carrier configuration. The system supports a range of different pouches. In this case, the configuration is made by the leader of the Goons squad - Knight - for conducting assault operations with increased mobility."
+      },
+      "ch": {
+        "description": "CAGE 防弹衣（CPC）采用低轮廓防弹衣构型，舒适性和负重支撑无与伦比，可搭配多种不同的附包。这套配置由 Goons 小队队长 Knight 制定，用于高机动突袭作战。",
+        "name": "Crye Precision CPC 防弹衣（黑色多地形迷彩）",
+        "shortName": "CPC（多地形黑）"
+      },
+      "cn": {
+        "description": "CAGE 防弹衣（CPC）采用低轮廓防弹衣构型，舒适性和负重支撑无与伦比，可搭配多种不同的附包。这套配置由 Goons 小队队长 Knight 制定，用于高机动突袭作战。",
+        "name": "Crye Precision CPC 防弹衣（黑色多地形迷彩）",
+        "shortName": "CPC（多地形黑）"
       }
     },
     "addtoInventorySlots": [],
@@ -2273,6 +2303,16 @@
         "name": "MSV-GEN II",
         "shortName": "MSV-GEN II",
         "description": "The Army MSV-GEN II includes both full Up Tactical and Concealable Vest components. It can be worn over the soldier’s uniform and is made up of the Concealable Components inserted into the Tactical Carrier. The Concealable Components contain the soft ballistic panels for the MSV-GEN II and can be removed from the Tactical Carrier and worn separately as a complete Concealable Vest. Therefore, this vest can be transformed to Tactical or Concealable depending on mission requirements."
+      },
+      "ch": {
+        "description": "陆军 MSV-GEN II 包括全套 Up Tactical 战术组件和 Concealable 隐蔽组件，可穿在士兵制服外，由插入战术携行具的隐蔽组件构成。隐蔽组件内含 MSV-GEN II 的软质防弹插板，可从战术携行具中取出，单独作为一件完整的隐蔽防弹衣穿着。因此这件防弹衣可根据任务需求在战术型和隐蔽型之间转换。",
+        "name": "MSV-GEN II",
+        "shortName": "MSV-GEN II"
+      },
+      "cn": {
+        "description": "陆军 MSV-GEN II 包括全套 Up Tactical 战术组件和 Concealable 隐蔽组件，可穿在士兵制服外，由插入战术携行具的隐蔽组件构成。隐蔽组件内含 MSV-GEN II 的软质防弹插板，可从战术携行具中取出，单独作为一件完整的隐蔽防弹衣穿着。因此这件防弹衣可根据任务需求在战术型和隐蔽型之间转换。",
+        "name": "MSV-GEN II",
+        "shortName": "MSV-GEN II"
       }
     },
     "addtoInventorySlots": [],
@@ -3035,6 +3075,16 @@
         "name": "KOMBAT Viking Molle Plate Carrier",
         "shortName": "KOMBAT Viking Molle Plate Carrier",
         "description": "The Kombat Viking Molle Battle Platform offers maximum load carrying capacity with a large number of features"
+      },
+      "ch": {
+        "description": "Kombat Viking Molle 作战平台拥有大量功能，负重能力达到最大。",
+        "name": "KOMBAT Viking Molle 防弹衣",
+        "shortName": "KOMBAT Viking Molle 防弹衣"
+      },
+      "cn": {
+        "description": "Kombat Viking Molle 作战平台拥有大量功能，负重能力达到最大。",
+        "name": "KOMBAT Viking Molle 防弹衣",
+        "shortName": "KOMBAT Viking Molle 防弹衣"
       }
     },
     "addtoInventorySlots": [],
@@ -3799,6 +3849,16 @@
         "name": "Shellback Tactical Banshee Plate Carrier",
         "shortName": "SB.T Plate Carrier",
         "description": "The Banshee Rifle Plate Carrier® was designed to meet and exceed the needs of law enforcement, military, and tactical operators. This ultra lightweight, low profile, high quality plate carrier has great load carrying capacity. "
+      },
+      "ch": {
+        "description": "Banshee 步枪防弹衣的设计满足并超越了执法、军事和战术人员的需求。这款超轻、低轮廓、高质量的防弹衣负重能力出色。",
+        "name": "Shellback Tactical Banshee 防弹衣",
+        "shortName": "SB.T 防弹衣"
+      },
+      "cn": {
+        "description": "Banshee 步枪防弹衣的设计满足并超越了执法、军事和战术人员的需求。这款超轻、低轮廓、高质量的防弹衣负重能力出色。",
+        "name": "Shellback Tactical Banshee 防弹衣",
+        "shortName": "SB.T 防弹衣"
       }
     },
     "addtoInventorySlots": [],
@@ -4489,6 +4549,16 @@
         "name": "Sentry Plate Carrier",
         "shortName": "Condor Plate Carrier",
         "description": "Stay safe and comfortable when in the line of duty by wearing the Condor Sentry Plate Carrier. Designed to have a supportive performance fit, this vest includes adjustable shoulder straps with removable shoulder pads along with a breathable 3D mesh liner. It also includes quick cinch adjustments for the front and hook and loop adjustments on the shoulders which make it much more comfortable to wear for long periods of time. The plate carrier is capable of holding standard armor plates and comes with an emergency drag handle as well as convenient quick release buckles. This Condor Outdoor plate carrier vest is perfect for a wide variety of rapid response situations."
+      },
+      "ch": {
+        "description": "穿上 Condor Sentry 防弹衣，在执勤时保持安全舒适。这件防弹衣采用贴合的性能剪裁，肩带可调并配有可拆卸肩垫，内衬为透气的 3D 网眼。前部配有快速收紧调节，肩部为魔术贴调节，长时间穿着也更加舒适。防弹衣可装标准防弹插板，配有紧急拖拽提手和方便的快速解脱扣。这款 Condor Outdoor 防弹衣非常适合各种快速反应场景。",
+        "name": "Sentry 防弹衣",
+        "shortName": "Condor 防弹衣"
+      },
+      "cn": {
+        "description": "穿上 Condor Sentry 防弹衣，在执勤时保持安全舒适。这件防弹衣采用贴合的性能剪裁，肩带可调并配有可拆卸肩垫，内衬为透气的 3D 网眼。前部配有快速收紧调节，肩部为魔术贴调节，长时间穿着也更加舒适。防弹衣可装标准防弹插板，配有紧急拖拽提手和方便的快速解脱扣。这款 Condor Outdoor 防弹衣非常适合各种快速反应场景。",
+        "name": "Sentry 防弹衣",
+        "shortName": "Condor 防弹衣"
       }
     },
     "addtoInventorySlots": [],
@@ -5029,6 +5099,16 @@
         "name": "CONDOR MOPC PLATE CARRIER",
         "shortName": "MOPC PLATE CARRIER",
         "description": "The Condor MOPC Fits Spartan Armor Systems™ 10″x12″ AR500 / AR550 / Armaply AR650 Shooter’s Cut armor plates, SAS IIIA Soft Armor, and our Level IV composites."
+      },
+      "ch": {
+        "description": "Condor MOPC 可装 Spartan Armor Systems™ 10″x12″ AR500 / AR550 / Armaply AR650 Shooter's Cut 防弹插板、SAS IIIA 软质防弹层和我们的 Level IV 复合插板。",
+        "name": "CONDOR MOPC 防弹衣",
+        "shortName": "MOPC 防弹衣"
+      },
+      "cn": {
+        "description": "Condor MOPC 可装 Spartan Armor Systems™ 10″x12″ AR500 / AR550 / Armaply AR650 Shooter's Cut 防弹插板、SAS IIIA 软质防弹层和我们的 Level IV 复合插板。",
+        "name": "CONDOR MOPC 防弹衣",
+        "shortName": "MOPC 防弹衣"
       }
     },
     "addtoInventorySlots": [],
@@ -5497,6 +5577,16 @@
         "name": "OPENLAND HEXAGON Plate Carrier",
         "shortName": "HEXAGON Plate Carrier",
         "description": "It’s not every day you see a new potential combat/tactical gear load-bearing attachment system replacement for ALICE and PALS/MOLLE (Pouch Attachment Ladder System/Modular Lightweight Load-carrying Equipment) webbing come along, particularly one that’s perhaps got an honest shot at it. That’s why DefenseReview (DR) found the new 5.11 Tactical OPENLAND Plate Carrier and the HEXGRID load-bearing attachment system itself so intriguing when we came across it at NDIA SOFIC (Special Operations Forces Industry Conference) 2017."
+      },
+      "ch": {
+        "description": "不是每天都能见到一种有望替代 ALICE 和 PALS/MOLLE（Pouch Attachment Ladder System/Modular Lightweight Load-carrying Equipment）织带的新型战斗/战术装备负重挂载系统，尤其是一个看起来真有机会的系统。这就是 DefenseReview（DR）在 2017 年 NDIA SOFIC（特种作战工业会议）上看到全新的 5.11 Tactical OPENLAND 防弹衣和 HEXGRID 负重挂载系统时觉得如此引人入胜的原因。",
+        "name": "OPENLAND HEXAGON 防弹衣",
+        "shortName": "HEXAGON 防弹衣"
+      },
+      "cn": {
+        "description": "不是每天都能见到一种有望替代 ALICE 和 PALS/MOLLE（Pouch Attachment Ladder System/Modular Lightweight Load-carrying Equipment）织带的新型战斗/战术装备负重挂载系统，尤其是一个看起来真有机会的系统。这就是 DefenseReview（DR）在 2017 年 NDIA SOFIC（特种作战工业会议）上看到全新的 5.11 Tactical OPENLAND 防弹衣和 HEXGRID 负重挂载系统时觉得如此引人入胜的原因。",
+        "name": "OPENLAND HEXAGON 防弹衣",
+        "shortName": "HEXAGON 防弹衣"
       }
     },
     "addtoInventorySlots": [],
@@ -6249,6 +6339,16 @@
         "name": "JPC 2.0 MARITIME",
         "shortName": "JPC 2.0",
         "description": "The JPC (JUMPABLE PLATE CARRIER) 2.0™ MARITIME is a lightweight and minimal armor vest designed for maximum mobility, weight savings, and packability. At just over one pound for the entire carrier, the JPC 2.0™ MARITIME offers a variety of configuration options to suit an operator’s needs in terms of protection, modularity, and comfort."
+      },
+      "ch": {
+        "description": "JPC（JUMPABLE PLATE CARRIER）2.0™ MARITIME 是一款轻便、极简的防弹衣，专为最大机动性、减重和便携而设计。整件携行具仅一磅出头，JPC 2.0™ MARITIME 提供多种配置选择，可满足使用者在防护、模块化和舒适性方面的需求。",
+        "name": "JPC 2.0 MARITIME",
+        "shortName": "JPC 2.0"
+      },
+      "cn": {
+        "description": "JPC（JUMPABLE PLATE CARRIER）2.0™ MARITIME 是一款轻便、极简的防弹衣，专为最大机动性、减重和便携而设计。整件携行具仅一磅出头，JPC 2.0™ MARITIME 提供多种配置选择，可满足使用者在防护、模块化和舒适性方面的需求。",
+        "name": "JPC 2.0 MARITIME",
+        "shortName": "JPC 2.0"
       }
     },
     "addtoInventorySlots": [],
@@ -7013,6 +7113,16 @@
         "name": "JPC 2.0 MARITIME",
         "shortName": "JPC 2.0",
         "description": "The JPC (JUMPABLE PLATE CARRIER) 2.0™ MARITIME is a lightweight and minimal armor vest designed for maximum mobility, weight savings, and packability. At just over one pound for the entire carrier, the JPC 2.0™ MARITIME offers a variety of configuration options to suit an operator’s needs in terms of protection, modularity, and comfort."
+      },
+      "ch": {
+        "description": "JPC（JUMPABLE PLATE CARRIER）2.0™ MARITIME 是一款轻便、极简的防弹衣，专为最大机动性、减重和便携而设计。整件携行具仅一磅出头，JPC 2.0™ MARITIME 提供多种配置选择，可满足使用者在防护、模块化和舒适性方面的需求。",
+        "name": "JPC 2.0 MARITIME",
+        "shortName": "JPC 2.0"
+      },
+      "cn": {
+        "description": "JPC（JUMPABLE PLATE CARRIER）2.0™ MARITIME 是一款轻便、极简的防弹衣，专为最大机动性、减重和便携而设计。整件携行具仅一磅出头，JPC 2.0™ MARITIME 提供多种配置选择，可满足使用者在防护、模块化和舒适性方面的需求。",
+        "name": "JPC 2.0 MARITIME",
+        "shortName": "JPC 2.0"
       }
     },
     "addtoInventorySlots": [],
@@ -7675,6 +7785,16 @@
         "name": "5.11 TACTEC Plate Carrier",
         "shortName": "5.11 TACTEC",
         "description": "Made from an ultra-durable, water-resistant 500D nylon, the 5.11 TacTec™ Plate Carrier Vest is uniquely designed to give the wearer an increased range of motion with a lightweight feel and optimal breathability. Unlike some comparable weighted vests or flak jackets in the industry, the 5.11 Tactical Weight Vest can hold medium and large ballistic plates—front and back—without the restrictive bulkiness."
+      },
+      "ch": {
+        "description": "采用超耐用、防水的 500D 尼龙制成，5.11 TacTec™ 防弹衣设计独特，能让穿着者活动范围更大，轻便且透气性最佳。与业内一些同类负重背心或防破片衣不同，5.11 Tactical 负重背心无需臃肿体积即可前后装中号和大号防弹插板。",
+        "name": "5.11 TACTEC 防弹衣",
+        "shortName": "5.11 TACTEC"
+      },
+      "cn": {
+        "description": "采用超耐用、防水的 500D 尼龙制成，5.11 TacTec™ 防弹衣设计独特，能让穿着者活动范围更大，轻便且透气性最佳。与业内一些同类负重背心或防破片衣不同，5.11 Tactical 负重背心无需臃肿体积即可前后装中号和大号防弹插板。",
+        "name": "5.11 TACTEC 防弹衣",
+        "shortName": "5.11 TACTEC"
       }
     },
     "addtoInventorySlots": [],
@@ -8143,6 +8263,16 @@
         "name": "TACTEC Plate Carrier",
         "shortName": "TACTEC Plate Carrier",
         "description": "Introducing the TacTec Plate Carrier from 5.11 Tactical®, a high-performance, lightweight, and mobile plate carrier designed to provide you with exceptional comfort and maximum range of motion."
+      },
+      "ch": {
+        "description": "向你介绍来自 5.11 Tactical® 的 TacTec 防弹衣，一款高性能、轻便、灵活的防弹衣，能提供出色的舒适性和最大的活动范围。",
+        "name": "TACTEC 防弹衣",
+        "shortName": "TACTEC 防弹衣"
+      },
+      "cn": {
+        "description": "向你介绍来自 5.11 Tactical® 的 TacTec 防弹衣，一款高性能、轻便、灵活的防弹衣，能提供出色的舒适性和最大的活动范围。",
+        "name": "TACTEC 防弹衣",
+        "shortName": "TACTEC 防弹衣"
       }
     },
     "addtoInventorySlots": [],
@@ -8711,6 +8841,16 @@
         "name": "FORT Defender-2 body armor(OD)",
         "shortName": "Defender-2(OD)",
         "description": "The FORT OK \"Defender-2\" operational kit is a modification of the popular body armor FORT \"Defender\" designed for both VIP and for employees of operational combat units. The kit uses the maximum capabilities of the modular principle of building armor based on steel plates."
+      },
+      "ch": {
+        "description": "FORT “Defender-2” 作战套装是广受欢迎的 FORT “Defender” 防弹衣的改进型，专为 VIP 和作战单位人员设计。该套装最大限度地运用了基于钢板构建防弹衣的模块化原理。",
+        "name": "FORT Defender-2 防弹衣（橄榄绿）",
+        "shortName": "Defender-2（橄榄绿）"
+      },
+      "cn": {
+        "description": "FORT “Defender-2” 作战套装是广受欢迎的 FORT “Defender” 防弹衣的改进型，专为 VIP 和作战单位人员设计。该套装最大限度地运用了基于钢板构建防弹衣的模块化原理。",
+        "name": "FORT Defender-2 防弹衣（橄榄绿）",
+        "shortName": "Defender-2（橄榄绿）"
       }
     },
     "addtoInventorySlots": [],
@@ -9303,6 +9443,16 @@
         "name": "AirLite SPC (Multicam)",
         "shortName": "SPC",
         "description": "The AIRLITE SPC (STRUCTURAL PLATE CARRIER) offers all the lightweight mobility of our JPC™ while providing the structural load support of our AVS™ & CPC™. At just over one pound for the entire system (including front flap and cummerbund- each sold separetely), the AIRLITE SPC is an ideal choice for all environments including maritime. It pairs with our patented AIRLITE STRUCTURAL CUMMERBUND that allows pouches to be mounted on both the inside and outside of the cummerbund and is compatible with our EXTENDABLE StKSS™ to reduce the load on the shoulders and back.  The AIRLITE SPC sheds unnecessary weight and bulk while improving overall ventilation."
+      },
+      "ch": {
+        "description": "AIRLITE SPC（STRUCTURAL PLATE CARRIER）兼具 JPC™ 的轻便灵活和 AVS™ 与 CPC™ 的结构负重支撑。整套系统仅一磅出头（包括前襟和腰封，各单独出售），AIRLITE SPC 是包括水上在内的所有环境的理想选择。它搭配我们专利的 AIRLITE STRUCTURAL 腰封，附包可挂在腰封内外，并兼容 EXTENDABLE StKSS™，可减轻肩部和背部负担。AIRLITE SPC 减去了不必要的重量和体积，同时改善了通风。",
+        "name": "AirLite SPC（多地形迷彩）",
+        "shortName": "SPC"
+      },
+      "cn": {
+        "description": "AIRLITE SPC（STRUCTURAL PLATE CARRIER）兼具 JPC™ 的轻便灵活和 AVS™ 与 CPC™ 的结构负重支撑。整套系统仅一磅出头（包括前襟和腰封，各单独出售），AIRLITE SPC 是包括水上在内的所有环境的理想选择。它搭配我们专利的 AIRLITE STRUCTURAL 腰封，附包可挂在腰封内外，并兼容 EXTENDABLE StKSS™，可减轻肩部和背部负担。AIRLITE SPC 减去了不必要的重量和体积，同时改善了通风。",
+        "name": "AirLite SPC（多地形迷彩）",
+        "shortName": "SPC"
       }
     },
     "addtoInventorySlots": [],
@@ -9795,6 +9945,16 @@
         "name": "LV-119 (Multicam)",
         "shortName": "LV-119",
         "description": "The LV/119 SYSTEM is a group of products that work together to give end-users the ability to scale their equipment to their current needs. The fact that this is a cohesive system means that users can mix and match accessories in most cases. For example: One could take a C O V E R T Front or Rear Plate bag and use it with an O V E R T Front and Rear Plate Bag. Users may also also cross pollinate cummerbunds, shoulder covers, and other parts that will be available. The SYSTEM encompasses many parts, some of which are currently available and some that are in development, such as Back Panels of various types, MOLLE cummerbunds, First Spear TUBES™ integrations, and different placards."
+      },
+      "ch": {
+        "description": "LV/119 SYSTEM 是一组协同工作的产品，让使用者能根据当前需求扩展装备。这一成套系统意味着使用者在大多数情况下可以混搭配件。例如，可以把一件 C O V E R T 前/后防弹袋与 O V E R T 前/后防弹袋搭配使用。使用者还可以交叉搭配腰封、护肩以及其他部件，部分产品已经上市，部分正在开发中，例如各种类型的背板、MOLLE 腰封、First Spear TUBES™ 集成件和不同的前板。",
+        "name": "LV-119（多地形迷彩）",
+        "shortName": "LV-119"
+      },
+      "cn": {
+        "description": "LV/119 SYSTEM 是一组协同工作的产品，让使用者能根据当前需求扩展装备。这一成套系统意味着使用者在大多数情况下可以混搭配件。例如，可以把一件 C O V E R T 前/后防弹袋与 O V E R T 前/后防弹袋搭配使用。使用者还可以交叉搭配腰封、护肩以及其他部件，部分产品已经上市，部分正在开发中，例如各种类型的背板、MOLLE 腰封、First Spear TUBES™ 集成件和不同的前板。",
+        "name": "LV-119（多地形迷彩）",
+        "shortName": "LV-119"
       }
     },
     "addtoInventorySlots": [],

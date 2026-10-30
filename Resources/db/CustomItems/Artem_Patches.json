@@ -15,6 +15,16 @@
         "name": "Tron Patch",
         "shortName": "Tron Patch",
         "description": "WTT"
+      },
+      "ch": {
+        "description": "WTT",
+        "name": "Tron 臂章",
+        "shortName": "Tron 臂章"
+      },
+      "cn": {
+        "description": "WTT",
+        "name": "Tron 臂章",
+        "shortName": "Tron 臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -56,6 +66,16 @@
         "name": "Warrior of Sunlight Patch",
         "shortName": "Warrior of Sunlight Patch",
         "description": "Long Live Solaire"
+      },
+      "ch": {
+        "description": "赞美太阳",
+        "name": "阳光战士臂章",
+        "shortName": "阳光战士臂章"
+      },
+      "cn": {
+        "description": "赞美太阳",
+        "name": "阳光战士臂章",
+        "shortName": "阳光战士臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -97,6 +117,16 @@
         "name": "'Oi Matey' Patch",
         "shortName": "'Oi Matey'",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "'Oi Matey' 臂章",
+        "shortName": "'Oi Matey'"
+      },
+      "cn": {
+        "description": "",
+        "name": "'Oi Matey' 臂章",
+        "shortName": "'Oi Matey'"
       }
     },
     "addtoInventorySlots": [],
@@ -138,6 +168,16 @@
         "name": "Bluey Portrait Patch",
         "shortName": "Bluey",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "Bluey 肖像臂章",
+        "shortName": "Bluey"
+      },
+      "cn": {
+        "description": "",
+        "name": "Bluey 肖像臂章",
+        "shortName": "Bluey"
       }
     },
     "addtoInventorySlots": [],
@@ -179,6 +219,16 @@
         "name": "USEC Patch",
         "shortName": "USEC",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "USEC 臂章",
+        "shortName": "USEC"
+      },
+      "cn": {
+        "description": "",
+        "name": "USEC 臂章",
+        "shortName": "USEC"
       }
     },
     "addtoInventorySlots": [],
@@ -220,6 +270,16 @@
         "name": "BEAR Patch",
         "shortName": "BEAR",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "BEAR 臂章",
+        "shortName": "BEAR"
+      },
+      "cn": {
+        "description": "",
+        "name": "BEAR 臂章",
+        "shortName": "BEAR"
       }
     },
     "addtoInventorySlots": [],
@@ -261,6 +321,16 @@
         "name": "Alabama Patch",
         "shortName": "Alabama",
         "description": "Rocka went to a trip far away."
+      },
+      "ch": {
+        "description": "Rocka 去了一趟远门。",
+        "name": "阿拉巴马臂章",
+        "shortName": "阿拉巴马"
+      },
+      "cn": {
+        "description": "Rocka 去了一趟远门。",
+        "name": "阿拉巴马臂章",
+        "shortName": "阿拉巴马"
       }
     },
     "addtoInventorySlots": [],
@@ -302,6 +372,16 @@
         "name": "USA Patch",
         "shortName": "USA",
         "description": "USA."
+      },
+      "ch": {
+        "description": "美国。",
+        "name": "美国臂章",
+        "shortName": "美国"
+      },
+      "cn": {
+        "description": "美国。",
+        "name": "美国臂章",
+        "shortName": "美国"
       }
     },
     "addtoInventorySlots": [],
@@ -343,6 +423,16 @@
         "name": "Sweden Patch",
         "shortName": "Sweden",
         "description": "Sweden."
+      },
+      "ch": {
+        "description": "瑞典。",
+        "name": "瑞典臂章",
+        "shortName": "瑞典"
+      },
+      "cn": {
+        "description": "瑞典。",
+        "name": "瑞典臂章",
+        "shortName": "瑞典"
       }
     },
     "addtoInventorySlots": [],
@@ -384,6 +474,16 @@
         "name": "'Fren' Patch",
         "shortName": "Fren",
         "description": "Fren."
+      },
+      "ch": {
+        "description": "Fren。",
+        "name": "'Fren' 臂章",
+        "shortName": "Fren"
+      },
+      "cn": {
+        "description": "Fren。",
+        "name": "'Fren' 臂章",
+        "shortName": "Fren"
       }
     },
     "addtoInventorySlots": [],
@@ -425,6 +525,16 @@
         "name": "UK Patch",
         "shortName": "UK",
         "description": "UK"
+      },
+      "ch": {
+        "description": "英国",
+        "name": "英国臂章",
+        "shortName": "英国"
+      },
+      "cn": {
+        "description": "英国",
+        "name": "英国臂章",
+        "shortName": "英国"
       }
     },
     "addtoInventorySlots": [],
@@ -466,6 +576,16 @@
         "name": "Patch",
         "shortName": "",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "臂章",
+        "shortName": ""
+      },
+      "cn": {
+        "description": "",
+        "name": "臂章",
+        "shortName": ""
       }
     },
     "addtoInventorySlots": [],
@@ -507,6 +627,16 @@
         "name": "Notepad++ Patch",
         "shortName": "",
         "description": "To our beloved, and most insane WTT member; Qwertyalex"
+      },
+      "ch": {
+        "description": "献给我们最敬爱、也最疯狂的 WTT 成员：Qwertyalex",
+        "name": "Notepad++ 臂章",
+        "shortName": ""
+      },
+      "cn": {
+        "description": "献给我们最敬爱、也最疯狂的 WTT 成员：Qwertyalex",
+        "name": "Notepad++ 臂章",
+        "shortName": ""
       }
     },
     "addtoInventorySlots": [],
@@ -548,6 +678,16 @@
         "name": "Scotland Patch",
         "shortName": "",
         "description": "Scotland"
+      },
+      "ch": {
+        "description": "苏格兰",
+        "name": "苏格兰臂章",
+        "shortName": ""
+      },
+      "cn": {
+        "description": "苏格兰",
+        "name": "苏格兰臂章",
+        "shortName": ""
       }
     },
     "addtoInventorySlots": [],
@@ -589,6 +729,16 @@
         "name": "Germany Patch",
         "shortName": "",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "德国臂章",
+        "shortName": ""
+      },
+      "cn": {
+        "description": "",
+        "name": "德国臂章",
+        "shortName": ""
       }
     },
     "addtoInventorySlots": [],
@@ -630,6 +780,16 @@
         "name": "Rangers Patch",
         "shortName": "Rangers",
         "description": "Rangers"
+      },
+      "ch": {
+        "description": "游骑兵",
+        "name": "游骑兵臂章",
+        "shortName": "游骑兵"
+      },
+      "cn": {
+        "description": "游骑兵",
+        "name": "游骑兵臂章",
+        "shortName": "游骑兵"
       }
     },
     "addtoInventorySlots": [],
@@ -671,6 +831,16 @@
         "name": "'no step on snek'Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "'no step on snek' 臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "'no step on snek' 臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -712,6 +882,16 @@
         "name": "Meowdy Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "Meowdy 臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "Meowdy 臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -753,6 +933,16 @@
         "name": "Australia Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "澳大利亚臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "澳大利亚臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -794,6 +984,16 @@
         "name": "Canada Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "加拿大臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "加拿大臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -835,6 +1035,16 @@
         "name": "Poland Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "波兰臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "波兰臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -876,6 +1086,16 @@
         "name": "Solaire Circular Patch",
         "shortName": "Solaire",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "索拉尔圆形臂章",
+        "shortName": "索拉尔"
+      },
+      "cn": {
+        "description": "",
+        "name": "索拉尔圆形臂章",
+        "shortName": "索拉尔"
       }
     },
     "addtoInventorySlots": [],
@@ -917,6 +1137,16 @@
         "name": "Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -958,6 +1188,16 @@
         "name": "Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -999,6 +1239,16 @@
         "name": "Brotherhood Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "兄弟会臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "兄弟会臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -1040,6 +1290,16 @@
         "name": "Hidden Leaf Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "木叶臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "木叶臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -1081,6 +1341,16 @@
         "name": "Berserk Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "狂战士臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "狂战士臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -1122,6 +1392,16 @@
         "name": "Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "臂章",
+        "shortName": "臂章"
+      },
+      "cn": {
+        "description": "",
+        "name": "臂章",
+        "shortName": "臂章"
       }
     },
     "addtoInventorySlots": [],
@@ -1212,6 +1492,16 @@
         "name": "NVG Battery Pack",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "NVG 电池包",
+        "shortName": "NVG 电池包"
+      },
+      "cn": {
+        "description": "",
+        "name": "NVG 电池包",
+        "shortName": "NVG 电池包"
       }
     },
     "addtoInventorySlots": [],
@@ -1302,6 +1592,16 @@
         "name": "NVG Battery Pack (Alpine)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "NVG 电池包（高山）",
+        "shortName": "NVG 电池包"
+      },
+      "cn": {
+        "description": "",
+        "name": "NVG 电池包（高山）",
+        "shortName": "NVG 电池包"
       }
     },
     "addtoInventorySlots": [],
@@ -1392,6 +1692,16 @@
         "name": "NVG Battery Pack (Multicam)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "NVG 电池包（多地形迷彩）",
+        "shortName": "NVG 电池包"
+      },
+      "cn": {
+        "description": "",
+        "name": "NVG 电池包（多地形迷彩）",
+        "shortName": "NVG 电池包"
       }
     },
     "addtoInventorySlots": [],
@@ -1482,6 +1792,16 @@
         "name": "NVG Battery Pack (Multicam Black)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "NVG 电池包（黑色多地形迷彩）",
+        "shortName": "NVG 电池包"
+      },
+      "cn": {
+        "description": "",
+        "name": "NVG 电池包（黑色多地形迷彩）",
+        "shortName": "NVG 电池包"
       }
     },
     "addtoInventorySlots": [],
@@ -1572,6 +1892,16 @@
         "name": "Ferro Concepts Battery Pack (Coyote)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "Ferro Concepts 电池包（土狼棕）",
+        "shortName": "NVG 电池包"
+      },
+      "cn": {
+        "description": "",
+        "name": "Ferro Concepts 电池包（土狼棕）",
+        "shortName": "NVG 电池包"
       }
     },
     "addtoInventorySlots": [],
@@ -1662,6 +1992,16 @@
         "name": "Ferro Concepts Battery Pack (Ranger Green)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "Ferro Concepts 电池包（游骑兵绿）",
+        "shortName": "NVG 电池包"
+      },
+      "cn": {
+        "description": "",
+        "name": "Ferro Concepts 电池包（游骑兵绿）",
+        "shortName": "NVG 电池包"
       }
     },
     "addtoInventorySlots": [],
@@ -1752,6 +2092,16 @@
         "name": "Ferro Concepts Battery Pack (Black)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "Ferro Concepts 电池包（黑色）",
+        "shortName": "NVG 电池包"
+      },
+      "cn": {
+        "description": "",
+        "name": "Ferro Concepts 电池包（黑色）",
+        "shortName": "NVG 电池包"
       }
     },
     "addtoInventorySlots": [],
@@ -1842,6 +2192,16 @@
         "name": "Ferro Concepts Battery Pack (Alpine)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "Ferro Concepts 电池包（高山）",
+        "shortName": "NVG 电池包"
+      },
+      "cn": {
+        "description": "",
+        "name": "Ferro Concepts 电池包（高山）",
+        "shortName": "NVG 电池包"
       }
     },
     "addtoInventorySlots": [],
@@ -2205,6 +2565,16 @@
         "name": "Helmet Cover Black",
         "shortName": "Helmet Cover",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "黑色头盔罩",
+        "shortName": "头盔罩"
+      },
+      "cn": {
+        "description": "",
+        "name": "黑色头盔罩",
+        "shortName": "头盔罩"
       }
     },
     "addtoInventorySlots": [],
@@ -2570,6 +2940,16 @@
         "name": "Helmet Cover Alpine",
         "shortName": "Helmet Cover",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "高山头盔罩",
+        "shortName": "头盔罩"
+      },
+      "cn": {
+        "description": "",
+        "name": "高山头盔罩",
+        "shortName": "头盔罩"
       }
     },
     "addtoInventorySlots": [],
@@ -2941,6 +3321,16 @@
         "name": "Helmet Cover Ranger Green",
         "shortName": "Helmet Cover",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "游骑兵绿头盔罩",
+        "shortName": "头盔罩"
+      },
+      "cn": {
+        "description": "",
+        "name": "游骑兵绿头盔罩",
+        "shortName": "头盔罩"
       }
     },
     "addtoInventorySlots": [],
@@ -3312,6 +3702,16 @@
         "name": "Helmet Cover Multicam",
         "shortName": "Helmet Cover",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "多地形迷彩头盔罩",
+        "shortName": "头盔罩"
+      },
+      "cn": {
+        "description": "",
+        "name": "多地形迷彩头盔罩",
+        "shortName": "头盔罩"
       }
     },
     "addtoInventorySlots": [],
@@ -3683,6 +4083,16 @@
         "name": "Helmet Cover Multicam Black",
         "shortName": "Helmet Cover",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "黑色多地形迷彩头盔罩",
+        "shortName": "头盔罩"
+      },
+      "cn": {
+        "description": "",
+        "name": "黑色多地形迷彩头盔罩",
+        "shortName": "头盔罩"
       }
     },
     "addtoInventorySlots": [],

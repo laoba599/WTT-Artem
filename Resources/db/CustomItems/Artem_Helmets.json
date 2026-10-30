@@ -187,6 +187,16 @@
         "name": "DLP Tactical Extreme Helmet",
         "shortName": "DLP Tactical Helmet",
         "description": "Protect your skull from knocks and bangs with the ImpaX Extreme bump helmet from DLP Tactical. Cut in the familiar MICH / ACH Advanced Combat Helmet pattern, zero transition time is needed between the ImpaX Extreme bump helmet and the heavier ballistic equivalents. Perfect for high speed/ low drag operators who do not need bullet resistant protection or as a training/ simulation aid for when the heavier ballistic helmets are not desired."
+      },
+      "ch": {
+        "description": "用 DLP Tactical 的 ImpaX Extreme 防撞头盔保护你的头免受磕碰。采用熟悉的 MICH / ACH 先进战斗头盔版型，从 ImpaX Extreme 防撞头盔换到更重的防弹头盔无需任何适应时间。非常适合不需要防弹保护的高速/低阻作战人员，或在不需要重型防弹头盔时作为训练/模拟辅助。",
+        "name": "DLP Tactical Extreme 头盔",
+        "shortName": "DLP Tactical 头盔"
+      },
+      "cn": {
+        "description": "用 DLP Tactical 的 ImpaX Extreme 防撞头盔保护你的头免受磕碰。采用熟悉的 MICH / ACH 先进战斗头盔版型，从 ImpaX Extreme 防撞头盔换到更重的防弹头盔无需任何适应时间。非常适合不需要防弹保护的高速/低阻作战人员，或在不需要重型防弹头盔时作为训练/模拟辅助。",
+        "name": "DLP Tactical Extreme 头盔",
+        "shortName": "DLP Tactical 头盔"
       }
     },
     "addtoInventorySlots": [],
@@ -427,6 +437,16 @@
         "name": "Ops-Core FAST Carbon High Cut Helmet (Dark Blue)",
         "shortName": "Ops-Core High Cut Helmet",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ch": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core FAST Carbon 高切头盔（深蓝色）",
+        "shortName": "Ops-Core 高切头盔"
+      },
+      "cn": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core FAST Carbon 高切头盔（深蓝色）",
+        "shortName": "Ops-Core 高切头盔"
       }
     },
     "addtoInventorySlots": [],
@@ -667,6 +687,16 @@
         "name": "Legacy Safety Special Ops Ballistic Helmet FAST",
         "shortName": "SOF Ballistic Helmet",
         "description": "Legacy Safety Special OPS ballistic helmet with FAST shipping is a high performance, multi-layer, light weight combat helmet. Tested and proven to achieve a ranking of Level IIIA by the USA National Institute of Justice (NIJ STD 0106.01 ) by defeating .357 sig full metal jacket flat nose rounds (FMJ FN) and .44 Magnum semi jacketed hollow point (SJHP) rounds at velocities traveling up to 1450 ft/s."
+      },
+      "ch": {
+        "description": "Legacy Safety 特种作战防弹头盔，FAST 发货，是一款高性能、多层、轻便的战斗头盔。经测试验证达到美国国家司法研究所（NIJ STD 0106.01）Level IIIA 等级，可抵御速度高达 1450 ft/s 的 .357 sig 全金属被甲平头弹（FMJ FN）和 .44 Magnum 半被甲空尖弹（SJHP）。",
+        "name": "Legacy Safety 特种作战防弹头盔 FAST",
+        "shortName": "SOF 防弹头盔"
+      },
+      "cn": {
+        "description": "Legacy Safety 特种作战防弹头盔，FAST 发货，是一款高性能、多层、轻便的战斗头盔。经测试验证达到美国国家司法研究所（NIJ STD 0106.01）Level IIIA 等级，可抵御速度高达 1450 ft/s 的 .357 sig 全金属被甲平头弹（FMJ FN）和 .44 Magnum 半被甲空尖弹（SJHP）。",
+        "name": "Legacy Safety 特种作战防弹头盔 FAST",
+        "shortName": "SOF 防弹头盔"
       }
     },
     "addtoInventorySlots": [],
@@ -907,6 +937,16 @@
         "name": "Ops-Core FAST Carbon High Cut Helmet",
         "shortName": "Ops-Core High Cut Helmet",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ch": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core FAST Carbon 高切头盔",
+        "shortName": "Ops-Core 高切头盔"
+      },
+      "cn": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core FAST Carbon 高切头盔",
+        "shortName": "Ops-Core 高切头盔"
       }
     },
     "addtoInventorySlots": [],
@@ -1147,6 +1187,16 @@
         "name": "DLP Tactical Extreme Helmet",
         "shortName": "DLP Tactical Extreme Helmet",
         "description": "Protect your skull from knocks and bangs with the ImpaX Extreme bump helmet from DLP Tactical. Cut in the familiar MICH / ACH Advanced Combat Helmet pattern, zero transition time is needed between the ImpaX Extreme bump helmet and the heavier ballistic equivalents. Perfect for high speed/ low drag operators who do not need bullet resistant protection or as a training/ simulation aid for when the heavier ballistic helmets are not desired."
+      },
+      "ch": {
+        "description": "用 DLP Tactical 的 ImpaX Extreme 防撞头盔保护你的头免受磕碰。采用熟悉的 MICH / ACH 先进战斗头盔版型，从 ImpaX Extreme 防撞头盔换到更重的防弹头盔无需任何适应时间。非常适合不需要防弹保护的高速/低阻作战人员，或在不需要重型防弹头盔时作为训练/模拟辅助。",
+        "name": "DLP Tactical Extreme 头盔",
+        "shortName": "DLP Tactical Extreme 头盔"
+      },
+      "cn": {
+        "description": "用 DLP Tactical 的 ImpaX Extreme 防撞头盔保护你的头免受磕碰。采用熟悉的 MICH / ACH 先进战斗头盔版型，从 ImpaX Extreme 防撞头盔换到更重的防弹头盔无需任何适应时间。非常适合不需要防弹保护的高速/低阻作战人员，或在不需要重型防弹头盔时作为训练/模拟辅助。",
+        "name": "DLP Tactical Extreme 头盔",
+        "shortName": "DLP Tactical Extreme 头盔"
       }
     },
     "addtoInventorySlots": [],
@@ -1361,6 +1411,16 @@
         "name": "Ops-Core FAST Carbon High Cut Helmet (Tan)",
         "shortName": "Ops-Core High Cut Helmet",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ch": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core FAST Carbon 高切头盔（沙色）",
+        "shortName": "Ops-Core 高切头盔"
+      },
+      "cn": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core FAST Carbon 高切头盔（沙色）",
+        "shortName": "Ops-Core 高切头盔"
       }
     },
     "addtoInventorySlots": [],
@@ -1599,6 +1659,16 @@
         "name": "Ops-Core FAST Carbon Low Cut Helmet (Roze)",
         "shortName": "Ops-Core Low Cut Helmet",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ch": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core FAST Carbon 低切头盔（Roze）",
+        "shortName": "Ops-Core 低切头盔"
+      },
+      "cn": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core FAST Carbon 低切头盔（Roze）",
+        "shortName": "Ops-Core 低切头盔"
       }
     },
     "addtoInventorySlots": [],
@@ -1819,6 +1889,16 @@
         "name": "Tactical Bump Helmet (Grey)",
         "shortName": "Tactical Bump Helmet (Grey)",
         "description": "The super lightweight Tactical Bump Helmet from Chase Tactical is a great platform for any helmet accessory you need on the job, from Night Vision accessories to flashlights, our Tactical Bump Helmet provides great versatility and protection even in the toughest conditions."
+      },
+      "ch": {
+        "description": "来自 Chase Tactical 的超轻战术防撞头盔是工作时所需任何头盔配件的绝佳平台，从夜视配件到手电，我们的战术防撞头盔即使在最恶劣的条件下也能提供出色的通用性和防护。",
+        "name": "战术防撞头盔（灰色）",
+        "shortName": "战术防撞头盔（灰色）"
+      },
+      "cn": {
+        "description": "来自 Chase Tactical 的超轻战术防撞头盔是工作时所需任何头盔配件的绝佳平台，从夜视配件到手电，我们的战术防撞头盔即使在最恶劣的条件下也能提供出色的通用性和防护。",
+        "name": "战术防撞头盔（灰色）",
+        "shortName": "战术防撞头盔（灰色）"
       }
     },
     "addtoInventorySlots": [],
@@ -2052,6 +2132,16 @@
         "name": "Tactical Bump Helmet (Black)",
         "shortName": "Tactical Bump Helmet",
         "description": "The super lightweight Tactical Bump Helmet from Chase Tactical is a great platform for any helmet accessory you need on the job, from Night Vision accessories to flashlights, our Tactical Bump Helmet provides great versatility and protection even in the toughest conditions."
+      },
+      "ch": {
+        "description": "来自 Chase Tactical 的超轻战术防撞头盔是工作时所需任何头盔配件的绝佳平台，从夜视配件到手电，我们的战术防撞头盔即使在最恶劣的条件下也能提供出色的通用性和防护。",
+        "name": "战术防撞头盔（黑色）",
+        "shortName": "战术防撞头盔"
+      },
+      "cn": {
+        "description": "来自 Chase Tactical 的超轻战术防撞头盔是工作时所需任何头盔配件的绝佳平台，从夜视配件到手电，我们的战术防撞头盔即使在最恶劣的条件下也能提供出色的通用性和防护。",
+        "name": "战术防撞头盔（黑色）",
+        "shortName": "战术防撞头盔"
       }
     },
     "addtoInventorySlots": [],
@@ -2273,6 +2363,16 @@
         "name": "Tactical Bump Helmet (Alpine)",
         "shortName": "Tactical Bump Helmet",
         "description": "The super lightweight Tactical Bump Helmet from Chase Tactical is a great platform for any helmet accessory you need on the job, from Night Vision accessories to flashlights, our Tactical Bump Helmet provides great versatility and protection even in the toughest conditions."
+      },
+      "ch": {
+        "description": "来自 Chase Tactical 的超轻战术防撞头盔是工作时所需任何头盔配件的绝佳平台，从夜视配件到手电，我们的战术防撞头盔即使在最恶劣的条件下也能提供出色的通用性和防护。",
+        "name": "战术防撞头盔（高山）",
+        "shortName": "战术防撞头盔"
+      },
+      "cn": {
+        "description": "来自 Chase Tactical 的超轻战术防撞头盔是工作时所需任何头盔配件的绝佳平台，从夜视配件到手电，我们的战术防撞头盔即使在最恶劣的条件下也能提供出色的通用性和防护。",
+        "name": "战术防撞头盔（高山）",
+        "shortName": "战术防撞头盔"
       }
     },
     "addtoInventorySlots": [],
@@ -2513,6 +2613,16 @@
         "name": "ACH High Cut Tactical Helmet (Alpine)",
         "shortName": "MBH-ACH-HC",
         "description": "This ACH High-Cut helmet is manufactured in Europe with a high-performance Dupont Kevlar fiber assembly, making it a popular choice among police units and militaries around the world."
+      },
+      "ch": {
+        "description": "这款 ACH 高切头盔在欧洲制造，采用高性能杜邦凯夫拉纤维组件，是世界各地警察部队和军队的热门选择。",
+        "name": "ACH 高切战术头盔（高山）",
+        "shortName": "MBH-ACH-HC"
+      },
+      "cn": {
+        "description": "这款 ACH 高切头盔在欧洲制造，采用高性能杜邦凯夫拉纤维组件，是世界各地警察部队和军队的热门选择。",
+        "name": "ACH 高切战术头盔（高山）",
+        "shortName": "MBH-ACH-HC"
       }
     },
     "addtoInventorySlots": [],
@@ -2753,6 +2863,16 @@
         "name": "ACH High Cut Tactical Helmet (Black)",
         "shortName": "MBH-ACH-HC",
         "description": "This ACH High-Cut helmet is manufactured in Europe with a high-performance Dupont Kevlar fiber assembly, making it a popular choice among police units and militaries around the world."
+      },
+      "ch": {
+        "description": "这款 ACH 高切头盔在欧洲制造，采用高性能杜邦凯夫拉纤维组件，是世界各地警察部队和军队的热门选择。",
+        "name": "ACH 高切战术头盔（黑色）",
+        "shortName": "MBH-ACH-HC"
+      },
+      "cn": {
+        "description": "这款 ACH 高切头盔在欧洲制造，采用高性能杜邦凯夫拉纤维组件，是世界各地警察部队和军队的热门选择。",
+        "name": "ACH 高切战术头盔（黑色）",
+        "shortName": "MBH-ACH-HC"
       }
     },
     "addtoInventorySlots": [],
@@ -3169,6 +3289,16 @@
         "name": "Ops-Core SF High Cut Helmet (Multicam)",
         "shortName": "Ops-Core-SF",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ch": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core SF 高切头盔（多地形迷彩）",
+        "shortName": "Ops-Core-SF"
+      },
+      "cn": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core SF 高切头盔（多地形迷彩）",
+        "shortName": "Ops-Core-SF"
       }
     },
     "addtoInventorySlots": [],
@@ -3585,6 +3715,16 @@
         "name": "Ops-Core SF High Cut Helmet (OD)",
         "shortName": "Ops-Core-SF",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ch": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core SF 高切头盔（橄榄绿）",
+        "shortName": "Ops-Core-SF"
+      },
+      "cn": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core SF 高切头盔（橄榄绿）",
+        "shortName": "Ops-Core-SF"
       }
     },
     "addtoInventorySlots": [],
@@ -4001,6 +4141,16 @@
         "name": "Ops-Core SF High Cut Helmet (Black)",
         "shortName": "Ops-Core-SF",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ch": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core SF 高切头盔（黑色）",
+        "shortName": "Ops-Core-SF"
+      },
+      "cn": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core SF 高切头盔（黑色）",
+        "shortName": "Ops-Core-SF"
       }
     },
     "addtoInventorySlots": [],
@@ -4360,6 +4510,16 @@
         "name": "Ops-Core SF Warrior Helmet (Black)",
         "shortName": "Ops-Core-SF",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ch": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core SF Warrior 头盔（黑色）",
+        "shortName": "Ops-Core-SF"
+      },
+      "cn": {
+        "description": "高切、轻便、非防弹盔壳采用单向与编织复合碳纤维混合设计。针对不那么极端的环境设计，耐用的碳纤维结构可防护钝器创伤，非常适合严苛训练、侦察和水上行动以及快速索降。",
+        "name": "Ops-Core SF Warrior 头盔（黑色）",
+        "shortName": "Ops-Core-SF"
       }
     },
     "addtoInventorySlots": [],
@@ -4434,6 +4594,16 @@
         "name": "MOHOC® IR Camera",
         "shortName": "MOHOC® Camera",
         "description": "Developed specifically for use with the MOHOC® and MOHOC® IR Cameras, the Multi-Mount is designed to extend the functionality of your camera beyond the helmet."
+      },
+      "ch": {
+        "description": "专为配合 MOHOC® 和 MOHOC® IR 相机使用而开发，Multi-Mount 可将相机的功能扩展到头盔之外。",
+        "name": "MOHOC® IR 相机",
+        "shortName": "MOHOC® 相机"
+      },
+      "cn": {
+        "description": "专为配合 MOHOC® 和 MOHOC® IR 相机使用而开发，Multi-Mount 可将相机的功能扩展到头盔之外。",
+        "name": "MOHOC® IR 相机",
+        "shortName": "MOHOC® 相机"
       }
     },
     "addtoInventorySlots": [],
@@ -4475,6 +4645,16 @@
         "name": "Core Survival HEL-STAR 6 Gen III",
         "shortName": "HEL-STAR",
         "description": "Core Survival HEL-STAR 6® Gen III is a multi function helmet mounted LED light designed for airborne/MFF, tactical and other military operations. HEL-STAR 6® Gen III combines the basic features of the earlier HEL-STAR 4® & HEL-STAR 5® multi-function marker lights into a compact, integrated design with enhanced omni-directional visibility and easy battery replacement."
+      },
+      "ch": {
+        "description": "Core Survival HEL-STAR 6® Gen III 是一款多功能头盔安装 LED 灯，专为空降/MFF、战术和其他军事行动设计。HEL-STAR 6® Gen III 将早期 HEL-STAR 4® 和 HEL-STAR 5® 多功能标记灯的基本功能整合到紧凑的一体化设计中，全向可见性更强，电池更换更方便。",
+        "name": "Core Survival HEL-STAR 6 Gen III",
+        "shortName": "HEL-STAR"
+      },
+      "cn": {
+        "description": "Core Survival HEL-STAR 6® Gen III 是一款多功能头盔安装 LED 灯，专为空降/MFF、战术和其他军事行动设计。HEL-STAR 6® Gen III 将早期 HEL-STAR 4® 和 HEL-STAR 5® 多功能标记灯的基本功能整合到紧凑的一体化设计中，全向可见性更强，电池更换更方便。",
+        "name": "Core Survival HEL-STAR 6 Gen III",
+        "shortName": "HEL-STAR"
       }
     },
     "addtoInventorySlots": [],
@@ -4518,6 +4698,16 @@
         "name": "V-Lites (Red)",
         "shortName": "V-Lites",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "V-Lites（红色）",
+        "shortName": "V-Lites"
+      },
+      "cn": {
+        "description": "",
+        "name": "V-Lites（红色）",
+        "shortName": "V-Lites"
       }
     },
     "addtoInventorySlots": [],
@@ -4561,6 +4751,16 @@
         "name": "V-Lites (Blue)",
         "shortName": "V-Lites",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "V-Lites（蓝色）",
+        "shortName": "V-Lites"
+      },
+      "cn": {
+        "description": "",
+        "name": "V-Lites（蓝色）",
+        "shortName": "V-Lites"
       }
     },
     "addtoInventorySlots": [],
@@ -4604,6 +4804,16 @@
         "name": "Augmento™ Helmet Ghillie Cover Gen II (Multicam)",
         "shortName": "Augmento™ Helmet Ghillie Cover Gen II",
         "description": "Finally, a practical helmet ghillie cover. Quickly attach via shock cord to add an extra element of concealment to your kit. Creates color, texture and shadow to instantly break up the shape and appearance of your head. Rapidly remove at any time within seconds thanks to design simplicity."
+      },
+      "ch": {
+        "description": "终于有了一款实用的头盔吉利服罩。通过减震绳快速安装，为你的装备增添一层伪装。能制造色彩、纹理和阴影，瞬间打破头部的形状和外观。凭借简单的设计，可在数秒内随时快速取下。",
+        "name": "Augmento™ 头盔吉利服罩 Gen II（多地形迷彩）",
+        "shortName": "Augmento™ 头盔吉利服罩 Gen II"
+      },
+      "cn": {
+        "description": "终于有了一款实用的头盔吉利服罩。通过减震绳快速安装，为你的装备增添一层伪装。能制造色彩、纹理和阴影，瞬间打破头部的形状和外观。凭借简单的设计，可在数秒内随时快速取下。",
+        "name": "Augmento™ 头盔吉利服罩 Gen II（多地形迷彩）",
+        "shortName": "Augmento™ 头盔吉利服罩 Gen II"
       }
     },
     "addtoInventorySlots": [],
@@ -4647,6 +4857,16 @@
         "name": "Augmento™ Helmet Ghillie Cover Gen II (Alpine)",
         "shortName": "Augmento™ Helmet Ghillie Cover Gen II",
         "description": "Finally, a practical helmet ghillie cover. Quickly attach via shock cord to add an extra element of concealment to your kit. Creates color, texture and shadow to instantly break up the shape and appearance of your head. Rapidly remove at any time within seconds thanks to design simplicity."
+      },
+      "ch": {
+        "description": "终于有了一款实用的头盔吉利服罩。通过减震绳快速安装，为你的装备增添一层伪装。能制造色彩、纹理和阴影，瞬间打破头部的形状和外观。凭借简单的设计，可在数秒内随时快速取下。",
+        "name": "Augmento™ 头盔吉利服罩 Gen II（高山）",
+        "shortName": "Augmento™ 头盔吉利服罩 Gen II"
+      },
+      "cn": {
+        "description": "终于有了一款实用的头盔吉利服罩。通过减震绳快速安装，为你的装备增添一层伪装。能制造色彩、纹理和阴影，瞬间打破头部的形状和外观。凭借简单的设计，可在数秒内随时快速取下。",
+        "name": "Augmento™ 头盔吉利服罩 Gen II（高山）",
+        "shortName": "Augmento™ 头盔吉利服罩 Gen II"
       }
     },
     "addtoInventorySlots": [],
@@ -4690,6 +4910,16 @@
         "name": "Augmento™ Helmet Ghillie Cover Gen II (Multicam Black)",
         "shortName": "Augmento™ Helmet Ghillie Cover Gen II",
         "description": "Finally, a practical helmet ghillie cover. Quickly attach via shock cord to add an extra element of concealment to your kit. Creates color, texture and shadow to instantly break up the shape and appearance of your head. Rapidly remove at any time within seconds thanks to design simplicity."
+      },
+      "ch": {
+        "description": "终于有了一款实用的头盔吉利服罩。通过减震绳快速安装，为你的装备增添一层伪装。能制造色彩、纹理和阴影，瞬间打破头部的形状和外观。凭借简单的设计，可在数秒内随时快速取下。",
+        "name": "Augmento™ 头盔吉利服罩 Gen II（黑色多地形迷彩）",
+        "shortName": "Augmento™ 头盔吉利服罩 Gen II"
+      },
+      "cn": {
+        "description": "终于有了一款实用的头盔吉利服罩。通过减震绳快速安装，为你的装备增添一层伪装。能制造色彩、纹理和阴影，瞬间打破头部的形状和外观。凭借简单的设计，可在数秒内随时快速取下。",
+        "name": "Augmento™ 头盔吉利服罩 Gen II（黑色多地形迷彩）",
+        "shortName": "Augmento™ 头盔吉利服罩 Gen II"
       }
     },
     "addtoInventorySlots": [],
@@ -4733,6 +4963,16 @@
         "name": "Augmento™ Helmet Ghillie Cover Gen II (Ranger Green)",
         "shortName": "Augmento™ Helmet Ghillie Cover Gen II",
         "description": "Finally, a practical helmet ghillie cover. Quickly attach via shock cord to add an extra element of concealment to your kit. Creates color, texture and shadow to instantly break up the shape and appearance of your head. Rapidly remove at any time within seconds thanks to design simplicity."
+      },
+      "ch": {
+        "description": "终于有了一款实用的头盔吉利服罩。通过减震绳快速安装，为你的装备增添一层伪装。能制造色彩、纹理和阴影，瞬间打破头部的形状和外观。凭借简单的设计，可在数秒内随时快速取下。",
+        "name": "Augmento™ 头盔吉利服罩 Gen II（游骑兵绿）",
+        "shortName": "Augmento™ 头盔吉利服罩 Gen II"
+      },
+      "cn": {
+        "description": "终于有了一款实用的头盔吉利服罩。通过减震绳快速安装，为你的装备增添一层伪装。能制造色彩、纹理和阴影，瞬间打破头部的形状和外观。凭借简单的设计，可在数秒内随时快速取下。",
+        "name": "Augmento™ 头盔吉利服罩 Gen II（游骑兵绿）",
+        "shortName": "Augmento™ 头盔吉利服罩 Gen II"
       }
     },
     "addtoInventorySlots": [],
@@ -4776,6 +5016,16 @@
         "name": "V-Lites (Green)",
         "shortName": "V-Lites",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "V-Lites（绿色）",
+        "shortName": "V-Lites"
+      },
+      "cn": {
+        "description": "",
+        "name": "V-Lites（绿色）",
+        "shortName": "V-Lites"
       }
     },
     "addtoInventorySlots": [],
@@ -4819,6 +5069,16 @@
         "name": "V-Lites (IR)",
         "shortName": "V-Lites",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "V-Lites（IR）",
+        "shortName": "V-Lites"
+      },
+      "cn": {
+        "description": "",
+        "name": "V-Lites（IR）",
+        "shortName": "V-Lites"
       }
     },
     "addtoInventorySlots": [],
@@ -4971,6 +5231,16 @@
         "name": "GPNVG-18 Night Vision goggles (White)",
         "shortName": "GPNVG18 (White)",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "GPNVG-18 夜视仪（白色）",
+        "shortName": "GPNVG18（白色）"
+      },
+      "cn": {
+        "description": "",
+        "name": "GPNVG-18 夜视仪（白色）",
+        "shortName": "GPNVG18（白色）"
       }
     },
     "addtoInventorySlots": [],
@@ -5125,6 +5395,16 @@
         "name": "GPNVG-18 Night Vision goggles (OD)",
         "shortName": "GPNVG18 (OD)",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "GPNVG-18 夜视仪（橄榄绿）",
+        "shortName": "GPNVG18（橄榄绿）"
+      },
+      "cn": {
+        "description": "",
+        "name": "GPNVG-18 夜视仪（橄榄绿）",
+        "shortName": "GPNVG18（橄榄绿）"
       }
     },
     "addtoInventorySlots": [],
@@ -5279,6 +5559,16 @@
         "name": "GPNVG-18 Night Vision goggles (Black)",
         "shortName": "GPNVG18 (Black)",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "GPNVG-18 夜视仪（黑色）",
+        "shortName": "GPNVG18（黑色）"
+      },
+      "cn": {
+        "description": "",
+        "name": "GPNVG-18 夜视仪（黑色）",
+        "shortName": "GPNVG18（黑色）"
       }
     },
     "addtoInventorySlots": [],
@@ -5444,6 +5734,16 @@
         "name": "DevTac Ronin ballistic helmet (Alpine)",
         "shortName": "Ronin(Alpine)",
         "description": "A Japan-styled tactical helmet, manufactured by DevTac. Not used by any military or special forces. Just somehow happened to be in Tarkov for some frivolous price. Features a full protection of the whole head, but the armor class is not good enough to actually be useful in combat."
+      },
+      "ch": {
+        "description": "一款日式战术头盔，由 DevTac 制造。没有任何军队或特种部队使用。只是不知怎么以一个无聊的价格出现在了塔科夫。提供整个头部的全面防护，但防护等级不足以在实战中真正派上用场。",
+        "name": "DevTac Ronin 防弹头盔（高山）",
+        "shortName": "Ronin（高山）"
+      },
+      "cn": {
+        "description": "一款日式战术头盔，由 DevTac 制造。没有任何军队或特种部队使用。只是不知怎么以一个无聊的价格出现在了塔科夫。提供整个头部的全面防护，但防护等级不足以在实战中真正派上用场。",
+        "name": "DevTac Ronin 防弹头盔（高山）",
+        "shortName": "Ronin（高山）"
       }
     },
     "addtoInventorySlots": [],
@@ -5646,6 +5946,16 @@
         "name": "DevTac Ronin ballistic helmet (Black)",
         "shortName": "Ronin(Black)",
         "description": "A Japan-styled tactical helmet, manufactured by DevTac. Not used by any military or special forces. Just somehow happened to be in Tarkov for some frivolous price. Features a full protection of the whole head, but the armor class is not good enough to actually be useful in combat."
+      },
+      "ch": {
+        "description": "一款日式战术头盔，由 DevTac 制造。没有任何军队或特种部队使用。只是不知怎么以一个无聊的价格出现在了塔科夫。提供整个头部的全面防护，但防护等级不足以在实战中真正派上用场。",
+        "name": "DevTac Ronin 防弹头盔（黑色）",
+        "shortName": "Ronin（黑色）"
+      },
+      "cn": {
+        "description": "一款日式战术头盔，由 DevTac 制造。没有任何军队或特种部队使用。只是不知怎么以一个无聊的价格出现在了塔科夫。提供整个头部的全面防护，但防护等级不足以在实战中真正派上用场。",
+        "name": "DevTac Ronin 防弹头盔（黑色）",
+        "shortName": "Ronin（黑色）"
       }
     },
     "addtoInventorySlots": [],
@@ -5796,6 +6106,16 @@
         "name": "Peltor ComTac 2 headset(Mounted)",
         "shortName": "ComTac 2",
         "description": "The ComTac IV Hybrid Communication Headset is designed to help reduce exposure to hazardous levels of noise, improve situational awareness and at the same time enable two-way radio communication in noisy environments. The headset's electronics are contained completely inside the headset housing, eliminating the need for a large, heavy external radio control box. The headband mechanically stabilizes the headset to help relieve issues of earplugs dislodging from cable snags and body movement. Designed for comfortable use with a ballistic helmet."
+      },
+      "ch": {
+        "description": "ComTac IV 混合通信耳机旨在减少暴露于危险噪声水平的风险，提高态势感知，同时能在嘈杂环境中进行双向无线电通信。耳机的电子设备完全内置于耳机壳内，无需笨重的外置无线电控制盒。头带可机械固定耳机，有助于缓解因线缆勾挂和身体移动导致耳塞脱落的问题。设计用于与防弹头盔舒适搭配使用。",
+        "name": "Peltor ComTac 2 耳机（挂载）",
+        "shortName": "ComTac 2"
+      },
+      "cn": {
+        "description": "ComTac IV 混合通信耳机旨在减少暴露于危险噪声水平的风险，提高态势感知，同时能在嘈杂环境中进行双向无线电通信。耳机的电子设备完全内置于耳机壳内，无需笨重的外置无线电控制盒。头带可机械固定耳机，有助于缓解因线缆勾挂和身体移动导致耳塞脱落的问题。设计用于与防弹头盔舒适搭配使用。",
+        "name": "Peltor ComTac 2 耳机（挂载）",
+        "shortName": "ComTac 2"
       }
     },
     "addtoInventorySlots": [],
@@ -5907,6 +6227,16 @@
         "name": "Peltor ComTac 2 headset(Mounted)",
         "shortName": "ComTac 2",
         "description": "The ComTac IV Hybrid Communication Headset is designed to help reduce exposure to hazardous levels of noise, improve situational awareness and at the same time enable two-way radio communication in noisy environments. The headset's electronics are contained completely inside the headset housing, eliminating the need for a large, heavy external radio control box. The headband mechanically stabilizes the headset to help relieve issues of earplugs dislodging from cable snags and body movement. Designed for comfortable use with a ballistic helmet."
+      },
+      "ch": {
+        "description": "ComTac IV 混合通信耳机旨在减少暴露于危险噪声水平的风险，提高态势感知，同时能在嘈杂环境中进行双向无线电通信。耳机的电子设备完全内置于耳机壳内，无需笨重的外置无线电控制盒。头带可机械固定耳机，有助于缓解因线缆勾挂和身体移动导致耳塞脱落的问题。设计用于与防弹头盔舒适搭配使用。",
+        "name": "Peltor ComTac 2 耳机（挂载）",
+        "shortName": "ComTac 2"
+      },
+      "cn": {
+        "description": "ComTac IV 混合通信耳机旨在减少暴露于危险噪声水平的风险，提高态势感知，同时能在嘈杂环境中进行双向无线电通信。耳机的电子设备完全内置于耳机壳内，无需笨重的外置无线电控制盒。头带可机械固定耳机，有助于缓解因线缆勾挂和身体移动导致耳塞脱落的问题。设计用于与防弹头盔舒适搭配使用。",
+        "name": "Peltor ComTac 2 耳机（挂载）",
+        "shortName": "ComTac 2"
       }
     },
     "addtoInventorySlots": [],
@@ -6018,6 +6348,16 @@
         "name": "Peltor ComTac 2 headset(Mounted)",
         "shortName": "ComTac 2",
         "description": "The ComTac IV Hybrid Communication Headset is designed to help reduce exposure to hazardous levels of noise, improve situational awareness and at the same time enable two-way radio communication in noisy environments. The headset's electronics are contained completely inside the headset housing, eliminating the need for a large, heavy external radio control box. The headband mechanically stabilizes the headset to help relieve issues of earplugs dislodging from cable snags and body movement. Designed for comfortable use with a ballistic helmet."
+      },
+      "ch": {
+        "description": "ComTac IV 混合通信耳机旨在减少暴露于危险噪声水平的风险，提高态势感知，同时能在嘈杂环境中进行双向无线电通信。耳机的电子设备完全内置于耳机壳内，无需笨重的外置无线电控制盒。头带可机械固定耳机，有助于缓解因线缆勾挂和身体移动导致耳塞脱落的问题。设计用于与防弹头盔舒适搭配使用。",
+        "name": "Peltor ComTac 2 耳机（挂载）",
+        "shortName": "ComTac 2"
+      },
+      "cn": {
+        "description": "ComTac IV 混合通信耳机旨在减少暴露于危险噪声水平的风险，提高态势感知，同时能在嘈杂环境中进行双向无线电通信。耳机的电子设备完全内置于耳机壳内，无需笨重的外置无线电控制盒。头带可机械固定耳机，有助于缓解因线缆勾挂和身体移动导致耳塞脱落的问题。设计用于与防弹头盔舒适搭配使用。",
+        "name": "Peltor ComTac 2 耳机（挂载）",
+        "shortName": "ComTac 2"
       }
     },
     "addtoInventorySlots": [],
@@ -6129,6 +6469,16 @@
         "name": "RAC headsets(1)",
         "shortName": "RAC",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "RAC 耳机（1）",
+        "shortName": "RAC"
+      },
+      "cn": {
+        "description": "",
+        "name": "RAC 耳机（1）",
+        "shortName": "RAC"
       }
     },
     "addtoInventorySlots": [],
@@ -6240,6 +6590,16 @@
         "name": "RAC headsets(2)",
         "shortName": "RAC",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "RAC 耳机（2）",
+        "shortName": "RAC"
+      },
+      "cn": {
+        "description": "",
+        "name": "RAC 耳机（2）",
+        "shortName": "RAC"
       }
     },
     "addtoInventorySlots": [],
@@ -6351,6 +6711,16 @@
         "name": "RAC headsets(3)",
         "shortName": "RAC",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "RAC 耳机（3）",
+        "shortName": "RAC"
+      },
+      "cn": {
+        "description": "",
+        "name": "RAC 耳机（3）",
+        "shortName": "RAC"
       }
     },
     "addtoInventorySlots": [],
@@ -6462,6 +6832,16 @@
         "name": "RAC headsets(4)",
         "shortName": "RAC",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "RAC 耳机（4）",
+        "shortName": "RAC"
+      },
+      "cn": {
+        "description": "",
+        "name": "RAC 耳机（4）",
+        "shortName": "RAC"
       }
     },
     "addtoInventorySlots": [],
@@ -6503,6 +6883,16 @@
         "name": "PVS-31",
         "shortName": "PVS-31",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "PVS-31",
+        "shortName": "PVS-31"
+      },
+      "cn": {
+        "description": "",
+        "name": "PVS-31",
+        "shortName": "PVS-31"
       }
     },
     "addtoInventorySlots": [],
@@ -6546,6 +6936,16 @@
         "name": "PVS-31 (Wide)",
         "shortName": "PVS-31",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "PVS-31（宽版）",
+        "shortName": "PVS-31"
+      },
+      "cn": {
+        "description": "",
+        "name": "PVS-31（宽版）",
+        "shortName": "PVS-31"
       }
     },
     "addtoInventorySlots": [],

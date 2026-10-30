@@ -93,6 +93,16 @@
         "name": "Gas Mask",
         "shortName": "Gasmask",
         "description": "Used for Biological warfare, but also when you fart under the blanket."
+      },
+      "ch": {
+        "description": "用于生物战，也用于在被窝里放屁的时候。",
+        "name": "防毒面具",
+        "shortName": "防毒面具"
+      },
+      "cn": {
+        "description": "用于生物战，也用于在被窝里放屁的时候。",
+        "name": "防毒面具",
+        "shortName": "防毒面具"
       }
     },
     "addtoInventorySlots": [],
@@ -212,6 +222,16 @@
         "name": "S10 - Gas Mask",
         "shortName": "S-10 Gasmask",
         "description": "Used for Biological warfare, but also when you fart under the blanket."
+      },
+      "ch": {
+        "description": "用于生物战，也用于在被窝里放屁的时候。",
+        "name": "S10 防毒面具",
+        "shortName": "S-10 防毒面具"
+      },
+      "cn": {
+        "description": "用于生物战，也用于在被窝里放屁的时候。",
+        "name": "S10 防毒面具",
+        "shortName": "S-10 防毒面具"
       }
     },
     "addtoInventorySlots": [],
@@ -331,6 +351,16 @@
         "name": "S10 - Gas Mask",
         "shortName": "S-10 Gasmask",
         "description": "Used for Biological warfare, but also when you fart under the blanket."
+      },
+      "ch": {
+        "description": "用于生物战，也用于在被窝里放屁的时候。",
+        "name": "S10 防毒面具",
+        "shortName": "S-10 防毒面具"
+      },
+      "cn": {
+        "description": "用于生物战，也用于在被窝里放屁的时候。",
+        "name": "S10 防毒面具",
+        "shortName": "S-10 防毒面具"
       }
     },
     "addtoInventorySlots": [],
@@ -450,6 +480,16 @@
         "name": "C50 Gas Mask",
         "shortName": "C50 Gasmask",
         "description": "Used for Biological warfare, but also when you fart under the blanket."
+      },
+      "ch": {
+        "description": "用于生物战，也用于在被窝里放屁的时候。",
+        "name": "C50 防毒面具",
+        "shortName": "C50 防毒面具"
+      },
+      "cn": {
+        "description": "用于生物战，也用于在被窝里放屁的时候。",
+        "name": "C50 防毒面具",
+        "shortName": "C50 防毒面具"
       }
     },
     "addtoInventorySlots": [],
@@ -571,6 +611,16 @@
         "name": "Skull Mask",
         "shortName": "Skull Mask",
         "description": "TF-141"
+      },
+      "ch": {
+        "description": "TF-141",
+        "name": "骷髅面罩",
+        "shortName": "骷髅面罩"
+      },
+      "cn": {
+        "description": "TF-141",
+        "name": "骷髅面罩",
+        "shortName": "骷髅面罩"
       }
     },
     "addtoInventorySlots": [],
@@ -690,6 +740,16 @@
         "name": "Skull Mask(Black)",
         "shortName": "Skull Mask(B)",
         "description": "TF-141"
+      },
+      "ch": {
+        "description": "TF-141",
+        "name": "骷髅面罩（黑色）",
+        "shortName": "骷髅面罩（黑）"
+      },
+      "cn": {
+        "description": "TF-141",
+        "name": "骷髅面罩（黑色）",
+        "shortName": "骷髅面罩（黑）"
       }
     },
     "addtoInventorySlots": [],
@@ -809,6 +869,16 @@
         "name": "Skull Mask(Red)",
         "shortName": "Skull Mask(R)",
         "description": "TF-141"
+      },
+      "ch": {
+        "description": "TF-141",
+        "name": "骷髅面罩（红色）",
+        "shortName": "骷髅面罩（红）"
+      },
+      "cn": {
+        "description": "TF-141",
+        "name": "骷髅面罩（红色）",
+        "shortName": "骷髅面罩（红）"
       }
     },
     "addtoInventorySlots": [],
@@ -928,6 +998,16 @@
         "name": "Nikto Mask",
         "shortName": "Nikto Mask",
         "description": "Black Shadow Company"
+      },
+      "ch": {
+        "description": "Black Shadow Company",
+        "name": "Nikto 面罩",
+        "shortName": "Nikto 面罩"
+      },
+      "cn": {
+        "description": "Black Shadow Company",
+        "name": "Nikto 面罩",
+        "shortName": "Nikto 面罩"
       }
     },
     "addtoInventorySlots": [],
@@ -1054,6 +1134,16 @@
         "name": "CA HAFM-KII Ballistic Face Mask",
         "shortName": "HAFM-KII Ballistic Mask",
         "description": "The NIJ Level IIIA+ Face Mask has been designed to maximize comfort while proviing front facial protection."
+      },
+      "ch": {
+        "description": "NIJ Level IIIA+ 面罩在提供面部前方防护的同时，最大限度地保证了舒适性。",
+        "name": "CA HAFM-KII 防弹面罩",
+        "shortName": "HAFM-KII 防弹面罩"
+      },
+      "cn": {
+        "description": "NIJ Level IIIA+ 面罩在提供面部前方防护的同时，最大限度地保证了舒适性。",
+        "name": "CA HAFM-KII 防弹面罩",
+        "shortName": "HAFM-KII 防弹面罩"
       }
     },
     "addtoInventorySlots": [],
@@ -1180,6 +1270,16 @@
         "name": "CQCM Full Face Bulletproof Mask (Worn)",
         "shortName": "CQCM Ballistic Mask",
         "description": "The NIJ Level IIIA+ Ballsitic Face Mask has been designed to maximize comfort while proviing front facial protection."
+      },
+      "ch": {
+        "description": "NIJ Level IIIA+ 面罩在提供面部前方防护的同时，最大限度地保证了舒适性。",
+        "name": "CQCM 全面防弹面罩（旧）",
+        "shortName": "CQCM 防弹面罩"
+      },
+      "cn": {
+        "description": "NIJ Level IIIA+ 面罩在提供面部前方防护的同时，最大限度地保证了舒适性。",
+        "name": "CQCM 全面防弹面罩（旧）",
+        "shortName": "CQCM 防弹面罩"
       }
     },
     "addtoInventorySlots": [],
@@ -1334,6 +1434,16 @@
         "name": "Black Hat",
         "shortName": "Black Hat",
         "description": "A lost hat, could be worn by one of Artem's old crewmates.."
+      },
+      "ch": {
+        "description": "一顶丢失的帽子，可能是 Artem 以前的老船员戴过的。",
+        "name": "黑帽子",
+        "shortName": "黑帽子"
+      },
+      "cn": {
+        "description": "一顶丢失的帽子，可能是 Artem 以前的老船员戴过的。",
+        "name": "黑帽子",
+        "shortName": "黑帽子"
       }
     },
     "addtoInventorySlots": [],
@@ -1374,6 +1484,16 @@
         "name": "Cold Fear Balaclava(Cultistgay)",
         "shortName": "CF (Cultists)",
         "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+      },
+      "ch": {
+        "description": "一款采用特殊科技面料的高质量头套，能在最严酷的严寒中保证最大温暖。但我们要它不是为了保暖，而是为了看起来够战术。",
+        "name": "Cold Fear 头套（Cultistgay）",
+        "shortName": "CF（邪教徒）"
+      },
+      "cn": {
+        "description": "一款采用特殊科技面料的高质量头套，能在最严酷的严寒中保证最大温暖。但我们要它不是为了保暖，而是为了看起来够战术。",
+        "name": "Cold Fear 头套（Cultistgay）",
+        "shortName": "CF（邪教徒）"
       }
     },
     "addtoInventorySlots": [],
@@ -1495,6 +1615,16 @@
         "name": "Half-Mask (ODY)",
         "shortName": "Mask(ody)",
         "description": "A half-mask"
+      },
+      "ch": {
+        "description": "半面罩",
+        "name": "半面罩（ODY）",
+        "shortName": "面罩（ODY）"
+      },
+      "cn": {
+        "description": "半面罩",
+        "name": "半面罩（ODY）",
+        "shortName": "面罩（ODY）"
       }
     },
     "addtoInventorySlots": [],
@@ -1616,6 +1746,16 @@
         "name": "Half-Mask",
         "shortName": "Mask",
         "description": "A half-mask"
+      },
+      "ch": {
+        "description": "半面罩",
+        "name": "半面罩",
+        "shortName": "面罩"
+      },
+      "cn": {
+        "description": "半面罩",
+        "name": "半面罩",
+        "shortName": "面罩"
       }
     },
     "addtoInventorySlots": [],
@@ -1737,6 +1877,16 @@
         "name": "Tanned Half-Mask",
         "shortName": "Mask",
         "description": "A half-mask"
+      },
+      "ch": {
+        "description": "半面罩",
+        "name": "棕褐色半面罩",
+        "shortName": "面罩"
+      },
+      "cn": {
+        "description": "半面罩",
+        "name": "棕褐色半面罩",
+        "shortName": "面罩"
       }
     },
     "addtoInventorySlots": [],
@@ -1887,6 +2037,16 @@
         "name": "Death Shadow lightweight armored mask (Cultist)",
         "shortName": "Death Shadow",
         "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+      },
+      "ch": {
+        "description": "一款采用特殊科技面料的高质量头套，能在最严酷的严寒中保证最大温暖。但我们要它不是为了保暖，而是为了看起来够战术。",
+        "name": "Death Shadow 轻型装甲面罩（邪教徒）",
+        "shortName": "Death Shadow"
+      },
+      "cn": {
+        "description": "一款采用特殊科技面料的高质量头套，能在最严酷的严寒中保证最大温暖。但我们要它不是为了保暖，而是为了看起来够战术。",
+        "name": "Death Shadow 轻型装甲面罩（邪教徒）",
+        "shortName": "Death Shadow"
       }
     },
     "addtoInventorySlots": [],
@@ -2008,6 +2168,16 @@
         "name": "Zryachiy's balaclava (White)",
         "shortName": "Zryachiy (White)",
         "description": "An intimidating face mask with a skull print, worn by Zryachiy."
+      },
+      "ch": {
+        "description": "印有骷髅图案、令人胆寒的面罩，Zryachiy 佩戴。",
+        "name": "Zryachiy 的头套（白色）",
+        "shortName": "Zryachiy（白色）"
+      },
+      "cn": {
+        "description": "印有骷髅图案、令人胆寒的面罩，Zryachiy 佩戴。",
+        "name": "Zryachiy 的头套（白色）",
+        "shortName": "Zryachiy（白色）"
       }
     },
     "addtoInventorySlots": [],
@@ -2048,6 +2218,16 @@
         "name": "Zryachiy's balaclava (Green)",
         "shortName": "Zryachiy (Green)",
         "description": "An intimidating face mask with a skull print, worn by Zryachiy."
+      },
+      "ch": {
+        "description": "印有骷髅图案、令人胆寒的面罩，Zryachiy 佩戴。",
+        "name": "Zryachiy 的头套（绿色）",
+        "shortName": "Zryachiy（绿色）"
+      },
+      "cn": {
+        "description": "印有骷髅图案、令人胆寒的面罩，Zryachiy 佩戴。",
+        "name": "Zryachiy 的头套（绿色）",
+        "shortName": "Zryachiy（绿色）"
       }
     },
     "addtoInventorySlots": [],
@@ -2090,6 +2270,16 @@
         "name": "Wolf Cowl",
         "shortName": "Wolf Cowl",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "狼兜帽",
+        "shortName": "狼兜帽"
+      },
+      "cn": {
+        "description": "",
+        "name": "狼兜帽",
+        "shortName": "狼兜帽"
       }
     },
     "addtoInventorySlots": [],
@@ -2132,6 +2322,16 @@
         "name": "Wolf Cowl (Brown)",
         "shortName": "Wolf Cowl",
         "description": ""
+      },
+      "ch": {
+        "description": "",
+        "name": "狼兜帽（棕色）",
+        "shortName": "狼兜帽"
+      },
+      "cn": {
+        "description": "",
+        "name": "狼兜帽（棕色）",
+        "shortName": "狼兜帽"
       }
     },
     "addtoInventorySlots": [],
@@ -2253,6 +2453,16 @@
         "name": "Frogman Scrim Net (Black)",
         "shortName": "Frogman Net",
         "description": "Frogman camo veil is premium quality army scrim net scarf, a really useful large size, unlike other scrim scarves that are barely long enough to fit round your neck.Scarf measures 120cm x 150 cm with a stitched hem on two sides, manufactured from 100% cotton. Excellent as a sniper veil, helmet netting, head wrap or simply as a scarf. Ideal for all outdoor activities. Scrim scarves are designed to retain heat in cold conditions and helps keep you cool in hot conditions."
+      },
+      "ch": {
+        "description": "Frogman 伪装面纱是优质军用伪装网围巾，尺寸十分可观，不像其他勉强够绕脖子一圈的伪装围巾。围巾尺寸 120cm x 150cm，两边有缝边，100% 纯棉制成。作为狙击面纱、头盔伪装网、头巾或普通围巾都非常出色，适合各种户外活动。伪装围巾在寒冷条件下能保暖，在炎热条件下又能帮你保持凉爽。",
+        "name": "Frogman 伪装网巾（黑色）",
+        "shortName": "Frogman 网巾"
+      },
+      "cn": {
+        "description": "Frogman 伪装面纱是优质军用伪装网围巾，尺寸十分可观，不像其他勉强够绕脖子一圈的伪装围巾。围巾尺寸 120cm x 150cm，两边有缝边，100% 纯棉制成。作为狙击面纱、头盔伪装网、头巾或普通围巾都非常出色，适合各种户外活动。伪装围巾在寒冷条件下能保暖，在炎热条件下又能帮你保持凉爽。",
+        "name": "Frogman 伪装网巾（黑色）",
+        "shortName": "Frogman 网巾"
       }
     },
     "addtoInventorySlots": [],
@@ -2374,6 +2584,16 @@
         "name": "Frogman Scrim Net (Tan)",
         "shortName": "Frogman Net",
         "description": "Frogman camo veil is premium quality army scrim net scarf, a really useful large size, unlike other scrim scarves that are barely long enough to fit round your neck.Scarf measures 120cm x 150 cm with a stitched hem on two sides, manufactured from 100% cotton. Excellent as a sniper veil, helmet netting, head wrap or simply as a scarf. Ideal for all outdoor activities. Scrim scarves are designed to retain heat in cold conditions and helps keep you cool in hot conditions."
+      },
+      "ch": {
+        "description": "Frogman 伪装面纱是优质军用伪装网围巾，尺寸十分可观，不像其他勉强够绕脖子一圈的伪装围巾。围巾尺寸 120cm x 150cm，两边有缝边，100% 纯棉制成。作为狙击面纱、头盔伪装网、头巾或普通围巾都非常出色，适合各种户外活动。伪装围巾在寒冷条件下能保暖，在炎热条件下又能帮你保持凉爽。",
+        "name": "Frogman 伪装网巾（沙色）",
+        "shortName": "Frogman 网巾"
+      },
+      "cn": {
+        "description": "Frogman 伪装面纱是优质军用伪装网围巾，尺寸十分可观，不像其他勉强够绕脖子一圈的伪装围巾。围巾尺寸 120cm x 150cm，两边有缝边，100% 纯棉制成。作为狙击面纱、头盔伪装网、头巾或普通围巾都非常出色，适合各种户外活动。伪装围巾在寒冷条件下能保暖，在炎热条件下又能帮你保持凉爽。",
+        "name": "Frogman 伪装网巾（沙色）",
+        "shortName": "Frogman 网巾"
       }
     },
     "addtoInventorySlots": [],
@@ -2495,6 +2715,16 @@
         "name": "Frogman Scrim Net (OD)",
         "shortName": "Frogman Net",
         "description": "Frogman camo veil is premium quality army scrim net scarf, a really useful large size, unlike other scrim scarves that are barely long enough to fit round your neck.Scarf measures 120cm x 150 cm with a stitched hem on two sides, manufactured from 100% cotton. Excellent as a sniper veil, helmet netting, head wrap or simply as a scarf. Ideal for all outdoor activities. Scrim scarves are designed to retain heat in cold conditions and helps keep you cool in hot conditions."
+      },
+      "ch": {
+        "description": "Frogman 伪装面纱是优质军用伪装网围巾，尺寸十分可观，不像其他勉强够绕脖子一圈的伪装围巾。围巾尺寸 120cm x 150cm，两边有缝边，100% 纯棉制成。作为狙击面纱、头盔伪装网、头巾或普通围巾都非常出色，适合各种户外活动。伪装围巾在寒冷条件下能保暖，在炎热条件下又能帮你保持凉爽。",
+        "name": "Frogman 伪装网巾（橄榄绿）",
+        "shortName": "Frogman 网巾"
+      },
+      "cn": {
+        "description": "Frogman 伪装面纱是优质军用伪装网围巾，尺寸十分可观，不像其他勉强够绕脖子一圈的伪装围巾。围巾尺寸 120cm x 150cm，两边有缝边，100% 纯棉制成。作为狙击面纱、头盔伪装网、头巾或普通围巾都非常出色，适合各种户外活动。伪装围巾在寒冷条件下能保暖，在炎热条件下又能帮你保持凉爽。",
+        "name": "Frogman 伪装网巾（橄榄绿）",
+        "shortName": "Frogman 网巾"
       }
     },
     "addtoInventorySlots": [],
@@ -2616,6 +2846,16 @@
         "name": "Frogman Scrim Net (White)",
         "shortName": "Frogman Net",
         "description": "Frogman camo veil is premium quality army scrim net scarf, a really useful large size, unlike other scrim scarves that are barely long enough to fit round your neck.Scarf measures 120cm x 150 cm with a stitched hem on two sides, manufactured from 100% cotton. Excellent as a sniper veil, helmet netting, head wrap or simply as a scarf. Ideal for all outdoor activities. Scrim scarves are designed to retain heat in cold conditions and helps keep you cool in hot conditions."
+      },
+      "ch": {
+        "description": "Frogman 伪装面纱是优质军用伪装网围巾，尺寸十分可观，不像其他勉强够绕脖子一圈的伪装围巾。围巾尺寸 120cm x 150cm，两边有缝边，100% 纯棉制成。作为狙击面纱、头盔伪装网、头巾或普通围巾都非常出色，适合各种户外活动。伪装围巾在寒冷条件下能保暖，在炎热条件下又能帮你保持凉爽。",
+        "name": "Frogman 伪装网巾（白色）",
+        "shortName": "Frogman 网巾"
+      },
+      "cn": {
+        "description": "Frogman 伪装面纱是优质军用伪装网围巾，尺寸十分可观，不像其他勉强够绕脖子一圈的伪装围巾。围巾尺寸 120cm x 150cm，两边有缝边，100% 纯棉制成。作为狙击面纱、头盔伪装网、头巾或普通围巾都非常出色，适合各种户外活动。伪装围巾在寒冷条件下能保暖，在炎热条件下又能帮你保持凉爽。",
+        "name": "Frogman 伪装网巾（白色）",
+        "shortName": "Frogman 网巾"
       }
     },
     "addtoInventorySlots": [],
